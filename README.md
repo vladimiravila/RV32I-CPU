@@ -55,7 +55,6 @@ RV32I-CPU/
 ├── uvm/
 └── README.md
 
-
 ## Tools
 
 * Verilog
