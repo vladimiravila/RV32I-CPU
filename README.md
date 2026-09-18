@@ -50,11 +50,12 @@ The test exercises register dependencies and data forwarding.
 
 ## Project Structure
 
+```text
 RV32I-CPU/
 ├── rtl/
 ├── uvm/
 └── README.md
-
+```
 ## Tools
 
 * Verilog
