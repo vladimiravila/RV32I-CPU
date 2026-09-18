@@ -48,6 +48,14 @@ The demonstrated test loads a three-instruction program and checks the final val
 
 The test exercises register dependencies and data forwarding.
 
+## Project Structure
+
+RV32I-CPU/
+├── rtl/
+├── uvm/
+└── README.md
+
+
 ## Tools
 
 * Verilog
