@@ -62,7 +62,7 @@ RV32I-CPU/
 * SystemVerilog
 * UVM
 * Intel Quartus
-* ModelSim
+* ModelSim/Questa (for UVM simulation)
 
 ## Notes
 
