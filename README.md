@@ -56,19 +56,6 @@ The test exercises register dependencies and data forwarding.
 * Intel Quartus
 * ModelSim
 
-## Project Structure
-
-RV32I-CPU/
-├── RTL/
-│   ├── Processor and pipeline modules
-│   ├── Cache and memory modules
-│   └── Datapath and control modules
-├── verification/
-│   └── SystemVerilog/UVM testbench
-├── testbench_CPU.sv
-└── README.md
-
-
 ## Notes
 
 This processor implements a subset of the RV32I instruction set. The current UVM environment demonstrates directed testing with a fixed test program rather than comprehensive randomized verification or functional coverage.
